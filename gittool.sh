@@ -2,10 +2,10 @@
 #  
 #       GitTool v1.0 
 #  
-#             GitTool Create By : Ha3MrX 
-#             Youtube Channel : https://www.youtube.com/c/HA-MRX
-#             GitHub : https://github.com/Ha3MrX
-#             website : https://kurdkali.wordpress.com/
+#             GitTool Create By : Vamshi Goud
+#             
+#             GitHub : https://github.com/TanviIshana
+#            
 #             Automatic Donwload Tools
 #                                     
 #                                                  
@@ -327,5 +327,6 @@ echo -e $okegreen"   ====================== Tool Lest =======================   
                 ;;
         esac
     done
+
 }
 main_menu
