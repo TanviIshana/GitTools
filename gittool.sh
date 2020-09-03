@@ -73,10 +73,10 @@ echo " ╚═════╝ ╚═╝   ╚═╝      ╚═╝    ╚══�
 echo "                                                        ";
 
 echo ""
-echo -e $cyan"    Create by           $white":" $red Ha3MrX  "
-echo -e $cyan"    Youtube Channel     $white":" $red https://www.youtube.com/c/HA-MRX"
-echo -e $cyan"    Github              $white":" $red https://github.com/Ha3MrX"
-echo -e $cyan"    website             $white":" $red https://kurdkali.wordpress.com/"
+echo -e $cyan"    Create by           $white":" $red Vamshi Goud  "
+echo -e $cyan"    Youtube Channel     
+echo -e $cyan"    Github              $white":" $red https://github.com/TanviIshana"
+echo -e $cyan"    website             
 echo -e $cyan ""
 echo -e $okegreen"   ====================== Tool Lest =======================    ";
         echo
